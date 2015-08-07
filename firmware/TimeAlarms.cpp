@@ -25,6 +25,7 @@ extern "C" {
 
 
 #include "TimeAlarms.h"
+#include "application.h"
 //#include "Time.h"
 
 #define IS_ONESHOT  true   // constants used in arguments to create method
